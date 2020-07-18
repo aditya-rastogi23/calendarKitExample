@@ -1,0 +1,20 @@
+PODS:
+  - CalendarKit (0.13.9):
+    - DateToolsSwift
+  - DateToolsSwift (5.0.0)
+
+DEPENDENCIES:
+  - CalendarKit
+
+SPEC REPOS:
+  trunk:
+    - CalendarKit
+    - DateToolsSwift
+
+SPEC CHECKSUMS:
+  CalendarKit: 781330ab3151e10b115afd4ccfd2b45f6738ac26
+  DateToolsSwift: 4207ada6ad615d8dc076323d27037c94916dbfa6
+
+PODFILE CHECKSUM: 3039028fe919f91328474fb8f08e643719786de1
+
+COCOAPODS: 1.9.1
